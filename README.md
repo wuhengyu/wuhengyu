@@ -1,4 +1,4 @@
-## 草木会发芽，孩子会长大，岁月的列车，不为谁停下。
+## 草木会发芽，孩子会长大！
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
