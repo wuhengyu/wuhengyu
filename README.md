@@ -1,6 +1,5 @@
 ## 草木会发芽，孩子会长大！
-![image](https://user-images.githubusercontent.com/11273140/175785043-032fb999-aa32-47be-8f87-d1f09352f6fd.png)
-
+![image](https://user-images.githubusercontent.com/11273140/175785124-e7604d58-fc1e-4d53-95f3-38ab0003bbe8.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
